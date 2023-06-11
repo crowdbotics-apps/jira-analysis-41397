@@ -9,8 +9,11 @@ langchain = "*"
 openai = "*"
 tiktoken = "*"
 pinecone-client = "*"
+numpy = "*"
+pandas = "*"
 
 [dev-packages]
+black = "*"
 
 [requires]
 python_version = "3.11"
